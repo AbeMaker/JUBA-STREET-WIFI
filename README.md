@@ -1,0 +1,1 @@
+This project was desgined for the fulfilment of phase-0 of the Software Engineering at Moringa School. It was basically done to test whether the students understood the concept of HTML, CSS as well as JavaScript and therefore it might not be something that makes sense but it has all the requirements needed.
